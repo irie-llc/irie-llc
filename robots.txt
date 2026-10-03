@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://irie-llc.github.io/irie-llc/sitemap.xml

@@ -1,14 +1,16 @@
-合同会社アイリー Webサイト
+合同会社アイリー Webサイト（SEO対応版）
 
-公開方法：このフォルダ内のファイルをそのまま無料ホスティングへアップロードしてください。
-最初に表示されるページは index.html です。
+GitHub Pages 公開URL:
+https://irie-llc.github.io/irie-llc/
 
-構成：
-index.html トップ
-service.html 業務内容
-price.html 料金案内
-partners.html 提携先・取引実績
-company.html 会社概要
-contact.html お問い合わせ
-style.css デザイン
-script.js スマホメニュー
+追加したSEO対応:
+- 各ページ固有のtitle / meta description
+- canonical URL
+- robots meta
+- OGP基本情報
+- Organization構造化データ（JSON-LD）
+- sitemap.xml
+- robots.txt
+
+GitHubでは、このフォルダ内のファイルをリポジトリのルート（index.htmlが見える階層）へアップロードしてください。
+既存ファイルは同名ファイルで置き換え、sitemap.xml と robots.txt を追加します。
